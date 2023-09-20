@@ -15,7 +15,7 @@ Alternatively you can enter [omega.gg/voxPopuli](https://omega.gg/voxPopuli) in 
 
 ## Feeds
 
-- [feed](playlist/feed.vbml): Feed listing recents videos broadcasted on vox populi.
+- [feed](playlist/feed.vbml): Feed of the recent videos broadcasted on vox populi.
 
 ## Authors
 
