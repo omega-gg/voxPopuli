@@ -4,7 +4,7 @@
 [vox populi](https://omega.gg/voxPopuli) is the first [tevolution channel](https://omega.gg/about/channel) on the Internet.<br>
 It's designed to inform, educate and empower french citizens.<br>
 It's a non profit initiative made by people for the people.<br>
-vox populi is part of the [vox](https://omega.gg/vox) tevolution network.<br>
+vox populi is part of the [vox](https://omega.gg/vox/sources) tevolution network.<br>
 
 ## Access to vox populi
 
