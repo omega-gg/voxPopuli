@@ -1,4 +1,4 @@
-<a href="https://omega.gg/voxPopuli"><img src="vox.png" alt="vox" width="512px"></a>
+<a href="https://omega.gg/voxPopuli"><img src="voxPopuli.png" alt="voxPopuli" width="512px"></a>
 ---
 
 [vox populi](https://omega.gg/voxPopuli) is the first [tevolution channel](https://omega.gg/about/channel) on the Internet.<br>
