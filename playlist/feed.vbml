@@ -5,9 +5,9 @@
 
 type: feed
 
-title: vox populi feed
+title: vox populi
 
-cover: https://raw.githubusercontent.com/omega-gg/voxPopuli/master/icons/vox.png
+cover: https://raw.githubusercontent.com/omega-gg/voxPopuli/master/icons/voxPopuli.png
 
 tracks: |
     https://omega.gg/voxPopuli
