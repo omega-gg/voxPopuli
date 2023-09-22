@@ -1,0 +1,16 @@
+# vbml 1.0.5
+#--------------------------------------------------------------------------------------------------
+# Visit https://omega.gg/voxPopuli for more informations.
+#--------------------------------------------------------------------------------------------------
+
+type: hub
+
+title: vox populi hub
+
+cover: https://raw.githubusercontent.com/omega-gg/voxPopuli/master/voxPopuli.png
+
+related: https://raw.githubusercontent.com/omega-gg/voxPopuli/master/playlist/related.vbml
+
+author: vox populi
+
+feed: https://omega.gg/voxPopuli/feed
