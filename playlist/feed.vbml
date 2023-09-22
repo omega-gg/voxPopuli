@@ -1,14 +1,14 @@
 # vbml 1.0.4
 #--------------------------------------------------------------------------------------------------
-# Visit https://omega.gg/vox for more informations.
+# Visit https://omega.gg/voxPopuli for more informations.
 #--------------------------------------------------------------------------------------------------
 
-type: hub
+type: feed
 
-title: vox
+title: vox populi feed
 
-cover: https://raw.githubusercontent.com/omega-gg/vox/master/vox.png
+cover: https://raw.githubusercontent.com/omega-gg/voxPopuli/master/icons/vox.png
 
-media: https://odysee.com/vox:a9
-
-related: https://omega.gg/vox/hubs
+tracks: |
+    https://omega.gg/voxPopuli
+    https://omega.gg/vox
