@@ -17,6 +17,8 @@ feed: https://omega.gg/voxPopuli/feed
 
 hub: https://omega.gg/voxPopuli/hub
 
+timezone: Europe/Paris
+
 # MultiTrack
 source:
     # Monday
