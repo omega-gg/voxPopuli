@@ -5,7 +5,7 @@
 
 type: channel
 
-title: vox populi
+title: Vox Populi
 
 cover: https://raw.githubusercontent.com/omega-gg/voxPopuli/master/voxPopuli.png
 
@@ -24,28 +24,28 @@ source:
     # Monday
     track:
         duration: 24:00:00
-        source: https://omega.gg/voxPopuli/hub
+        source: https://raw.githubusercontent.com/omega-gg/voxPopuli/master/channel/monday.vbml
     # Tuesday
     track:
         duration: 24:00:00
-        source: https://omega.gg/voxPopuli/hub
+        source: https://raw.githubusercontent.com/omega-gg/voxPopuli/master/channel/tuesday.vbml
     # Wednesday
     track:
         duration: 24:00:00
-        source: https://omega.gg/voxPopuli/hub
+        source: https://raw.githubusercontent.com/omega-gg/voxPopuli/master/channel/wednesday.vbml
     # Thursday
     track:
         duration: 24:00:00
-        source: https://omega.gg/voxPopuli/hub
+        source: https://raw.githubusercontent.com/omega-gg/voxPopuli/master/channel/thursday.vbml
     # Friday
     track:
         duration: 24:00:00
-        source: https://omega.gg/voxPopuli/hub
+        source: https://raw.githubusercontent.com/omega-gg/voxPopuli/master/channel/friday.vbml
     # Saturday
     track:
         duration: 24:00:00
-        source: https://omega.gg/voxPopuli/hub
+        source: https://raw.githubusercontent.com/omega-gg/voxPopuli/master/channel/saturday.vbml
     # Sunday
     track:
         duration: 24:00:00
-        source: https://omega.gg/voxPopuli/hub
+        source: https://raw.githubusercontent.com/omega-gg/voxPopuli/master/channel/sunday.vbml
