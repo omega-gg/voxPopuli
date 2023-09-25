@@ -16,3 +16,34 @@ author: vox populi
 feed: https://omega.gg/voxPopuli/feed
 
 hub: https://omega.gg/voxPopuli/hub
+
+# MultiTrack
+source:
+    # Monday
+    track:
+        duration: 24:00:00
+        source: https://omega.gg/voxPopuli/hub
+    # Tuesday
+    track:
+        duration: 24:00:00
+        source: https://omega.gg/voxPopuli/hub
+    # Wednesday
+    track:
+        duration: 24:00:00
+        source: https://omega.gg/voxPopuli/hub
+    # Thursday
+    track:
+        duration: 24:00:00
+        source: https://omega.gg/voxPopuli/hub
+    # Friday
+    track:
+        duration: 24:00:00
+        source: https://omega.gg/voxPopuli/hub
+    # Saturday
+    track:
+        duration: 24:00:00
+        source: https://omega.gg/voxPopuli/hub
+    # Sunday
+    track:
+        duration: 24:00:00
+        source: https://omega.gg/voxPopuli/hub
