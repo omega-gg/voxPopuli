@@ -1,5 +1,6 @@
 <a href="https://omega.gg/voxPopuli"><img src="voxPopuli.png" alt="voxPopuli" width="512px"></a>
 ---
+[![Discord](https://img.shields.io/discord/705770212485496852)](https://omega.gg/discord)
 
 [vox populi](https://omega.gg/voxPopuli) is the first [tevolution channel](https://omega.gg/about/channel) on the Internet.<br>
 It's designed to inform, educate and empower french citizens.<br>
