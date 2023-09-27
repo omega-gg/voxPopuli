@@ -9,5 +9,3 @@ OTHER_FILES += README.md \
                channel/sunday.vbml \
                hub/hub.vbml \
                playlist/feed.vbml \
-               playlist/relatedChannel.vbml \
-               playlist/relatedHub.vbml \
