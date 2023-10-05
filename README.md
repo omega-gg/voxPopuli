@@ -9,9 +9,9 @@ vox populi is part of the [vox](https://omega.gg/vox/sources) tevolution network
 
 ## Access to vox populi
 
-<a href="dist/voxPopuliTag.png"><img src="dist/voxPopuliTag.png" alt="voxPopuliTag" width="128px"></a>
+<a href="https://omega.gg/voxPopuli/vbml"><img src="dist/voxPopuliTag.png" alt="voxPopuliTag" width="128px"></a>
 
-Scan or drop this VideoTag in a [Semantic Player](https://omega.gg/about/SemanticPlayer) like [MotionMonkey](https://omega.gg/MotionMonkey).<br>
+Click or drop this VideoTag in a [Semantic Player](https://omega.gg/about/SemanticPlayer) like [MotionMonkey](https://omega.gg/MotionMonkey).<br>
 Alternatively you can enter [omega.gg/voxPopuli](https://omega.gg/voxPopuli) in its search bar.
 
 ## Feeds
