@@ -9,3 +9,4 @@ OTHER_FILES += README.md \
                channel/sunday.vbml \
                hub/hub.vbml \
                playlist/feed.vbml \
+               track/philosophy/*.vbml \
