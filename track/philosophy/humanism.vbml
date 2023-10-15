@@ -4,6 +4,10 @@ type: track
 
 title: Le transhumanisme en question. Alexandre, Onfray et Hadjadj feat Prince
 
+author: vox populi
+
+feed: https://omega.gg/voxPopuli/feed
+
 source:
     track:
         duration: 0:58
