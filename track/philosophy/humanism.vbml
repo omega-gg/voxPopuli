@@ -27,6 +27,5 @@ source:
         end: 1:03:20
         source: https://www.youtube.com/watch?v=uipRrMB2wNY
     track:
-        at: 0:05
-        end: 0:58
+        duration: 0:58
         source: https://www.youtube.com/watch?v=Iy7i9ru7HB8
