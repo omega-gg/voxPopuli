@@ -5,4 +5,13 @@
 
 type: track
 
-source: https://omega.gg/voxPopuli/hub
+source:
+    track:
+        duration: 21:00:00
+        source: https://omega.gg/voxPopuli/hub
+    track:
+        duration: 57:40
+        source: https://omega.gg/voxPopuli/cinema/cinema.vbml
+    track:
+        duration: 2:03:00
+        source: https://omega.gg/voxPopuli/hub
