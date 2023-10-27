@@ -12,6 +12,9 @@ feed: https://omega.gg/voxPopuli/feed
 
 source:
     track:
+        duration: 0:04
+        source: https://omega.gg/voxPopuli/track/intro.vbml
+    track:
         duration: 0:58
         source: https://www.youtube.com/watch?v=Iy7i9ru7HB8
     track:
@@ -30,5 +33,5 @@ source:
         duration: 0:58
         source: https://www.youtube.com/watch?v=Iy7i9ru7HB8
     track:
-        duration: 0:15
-        source: https://omega.gg/voxPopuli/philosophy/outro.vbml
+        duration: 0:09
+        source: https://omega.gg/voxPopuli/track/outro.vbml
