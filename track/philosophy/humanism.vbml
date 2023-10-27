@@ -12,9 +12,6 @@ feed: https://omega.gg/voxPopuli/feed
 
 source:
     track:
-        duration: 0:03
-        source: https://omega.gg/voxPopuli/track/intro.vbml
-    track:
         duration: 0:58
         source: https://www.youtube.com/watch?v=Iy7i9ru7HB8
     track:
