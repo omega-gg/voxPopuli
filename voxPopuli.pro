@@ -11,3 +11,4 @@ OTHER_FILES += README.md \
                playlist/feed.vbml \
                track/*.vbml \
                track/philosophy/*.vbml \
+               track/cinema/*.vbml \
