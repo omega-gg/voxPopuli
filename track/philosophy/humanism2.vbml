@@ -1,0 +1,29 @@
+# vbml 1.0.5
+
+type: track
+
+title: Les fondations religieuses de l'ubris économique du libéralisme
+
+cover: https://omega.gg/voxPopuli/philosophy/humanism2.jpg
+
+author: vox populi
+
+feed: https://omega.gg/voxPopuli/feed
+
+source:
+    track:
+        duration: 1:17
+        title: Michel Serres : Je suis pauvre et je vous emmerde
+        source: https://www.dailymotion.com/video/xpx5dd
+    track:
+        duration: 24:58
+        title: ENTRETIEN AVEC JEAN-CLAUDE MICHEA
+        source: https://www.youtube.com/watch?v=5r-tlZfGPW0
+    track:
+        at: 0:05
+        end: 1:07:58
+        title: Les visiteurs du soir (Émission du 10/09/2023)
+        source: https://www.youtube.com/watch?v=Gf8k6DQDsPc
+    track:
+        duration: 0:08
+        source: https://omega.gg/voxPopuli/track/outro.vbml
