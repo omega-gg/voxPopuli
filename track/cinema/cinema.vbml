@@ -13,12 +13,15 @@ feed: https://omega.gg/voxPopuli/feed
 source:
     track:
         duration: 1:22
+        title: Blade Runner (1982) - Opening scene - Los Angeles 2019 [HD]
         source: https://www.youtube.com/watch?v=x6dKU22lt3E
     track:
         duration: 52:29
+        title: "Blade Runner" - Au-delà de la fiction | ARTE Cinema
         source: https://www.youtube.com/watch?v=0F69CCGeNB8
     track:
         duration: 3:41
+        title: Blade Runner • Main Theme • Vangelis
         source: https://www.youtube.com/watch?v=ccJJ0uxigVA
     track:
         duration: 0:08
