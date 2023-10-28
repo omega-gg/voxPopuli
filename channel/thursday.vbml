@@ -5,4 +5,13 @@
 
 type: track
 
-source: https://omega.gg/voxPopuli/hub
+source:
+    track:
+        duration: 21:00:00
+        source: https://omega.gg/voxPopuli/hub
+    track:
+        duration: 1:56:34
+        source: https://omega.gg/voxPopuli/philosophy/humanism2.vbml
+    track:
+        duration: 1:04:00
+        source: https://omega.gg/voxPopuli/hub
