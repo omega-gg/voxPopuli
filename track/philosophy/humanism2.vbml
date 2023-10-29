@@ -2,7 +2,7 @@
 
 type: track
 
-title: Les fondations religieuses de l'économie libérale. Michéa, Hadjadj feat Serres
+title: Les fondations religieuses de l'économie libérale. Michéa et Hadjadj
 
 cover: https://omega.gg/voxPopuli/philosophy/humanism2.jpg
 
@@ -12,9 +12,10 @@ feed: https://omega.gg/voxPopuli/feed
 
 source:
     track:
-        duration: 1:17
-        title: Michel Serres : Je suis pauvre et je vous emmerde
-        source: https://www.dailymotion.com/video/xpx5dd
+        at: 0:14
+        end: 5:12
+        JEAN CLAUDE MICHÉA : L'AUTODESTRUCTION DE LA CIVILISATION LIBÉRALE
+        source: https://www.youtube.com/watch?v=nJYEZh_2RE4
     track:
         at: 1:26
         end: 24:42
