@@ -1,0 +1,20 @@
+# vbml 1.0.5
+
+type: track
+
+title: Penser le meurtre de masse à partir du libéralisme économique. Alain Badiou
+
+cover: https://omega.gg/voxPopuli/philosophy/humanism3.jpg
+
+author: vox populi
+
+feed: https://omega.gg/voxPopuli/feed
+
+source:
+    track:
+        duration: 1:51:43
+        title: Séminaire supplémentaire Alain Badiou 23 Novembre 2015
+        source: https://www.youtube.com/watch?v=R0r2fK1UCbI
+    track:
+        duration: 0:08
+        source: https://omega.gg/voxPopuli/track/outro.vbml
