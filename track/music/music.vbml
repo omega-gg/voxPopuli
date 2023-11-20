@@ -1,0 +1,29 @@
+# vbml 1.0.5
+
+type: track
+
+title: Melancholic vibes from Hania Rani
+
+cover: https://omega.gg/voxPopuli/cinema/music.jpg
+
+author: vox populi
+
+feed: https://omega.gg/voxPopuli/feed
+
+source:
+    track:
+        duration: 4:55
+        title: Hania Rani - Eden (Official Video) [Gondwana Records]
+        source: https://www.youtube.com/watch?v=9R1vOdO0Gwk
+    track:
+        at: 1:05
+        end: 26:24
+        title: Hania Rani – On Giacometti: A live performance at Atelier in Stampa
+        source: https://www.youtube.com/watch?v=0NTVXaxHBQQ
+    track:
+        duration: 25:42
+        title: Hania Rani – Live from Studio S2
+        source: https://www.youtube.com/watch?v=kFRdoYfZYUY
+    track:
+        duration: 0:08
+        source: https://omega.gg/voxPopuli/track/outro.vbml
