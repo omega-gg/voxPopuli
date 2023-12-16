@@ -9,10 +9,21 @@ title: vox populi
 
 cover: https://raw.githubusercontent.com/omega-gg/voxPopuli/master/icons/voxPopuli.png
 
-tracks: |
-    https://omega.gg/voxPopuli/hub
-    https://omega.gg/voxPopuli/music/music.vbml
-    https://omega.gg/voxPopuli/philosophy/humanism3.vbml
-    https://omega.gg/voxPopuli/philosophy/humanism2.vbml
-    https://omega.gg/voxPopuli/cinema/cinema.vbml
-    https://omega.gg/voxPopuli/philosophy/humanism.vbml
+tracks:
+    track:
+        source: https://omega.gg/voxPopuli/hub
+    track:
+        # music/music.vbml
+        source: https://vox.omega.gg/w/ukYBm4VUvogudWKg6CGonq
+    track:
+        # philosophy/humanism3.vbml
+        source: https://vox.omega.gg/w/iSXL3ccRT781pdCMv83YMj
+    track:
+        # philosophy/humanism2.vbml
+        source: https://vox.omega.gg/w/vcD64BZnpfaU9bLhLDtSnj
+    track:
+        # cinema/cinema.vbml
+        source: https://vox.omega.gg/w/twtpRNk4MGxgdb4G9gMQXn
+    track:
+        # philosophy/humanism.vbml
+        source: https://vox.omega.gg/w/7YEKazkpc2xGBKb6PNYGLo

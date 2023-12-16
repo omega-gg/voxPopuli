@@ -11,7 +11,8 @@ source:
         source: https://omega.gg/voxPopuli/hub
     track:
         duration: 1:51:51
-        source: https://omega.gg/voxPopuli/philosophy/humanism3.vbml
+        # philosophy/humanism3.vbml
+        source: https://vox.omega.gg/w/iSXL3ccRT781pdCMv83YMj
     track:
         duration: 3:00:00
         source: https://omega.gg/voxPopuli/hub
