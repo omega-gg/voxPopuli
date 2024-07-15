@@ -1,0 +1,32 @@
+# vbml 1.0.6
+#--------------------------------------------------------------------------------------------------
+# Visit https://omega.gg/voxPopuli for more informations.
+#--------------------------------------------------------------------------------------------------
+
+type: track
+
+title: vox populi
+
+seed: 123
+
+source:
+    track:
+        duration: 0:38
+        title: Le transhumanisme en question. Alexandre, Onfray et Hadjadj feat Prince
+        source: https://www.youtube.com/watch?v=Q72g288cUm8
+    track:
+        duration: 0:25
+        title: Blade Runner: fable moderne ou oeuvre avant-gardiste ?
+        source: https://www.youtube.com/watch?v=906CoDy86ng
+    track:
+        duration: 0:56
+        title: Les fondations religieuses de l'économie libérale. Michéa et Hadjadj
+        source: https://www.youtube.com/watch?v=Agaiv20eVzY
+    track:
+        duration: 1:24
+        title: Penser le meurtre de masse à partir du libéralisme économique. Alain Badiou
+        source: https://www.youtube.com/watch?v=aEhA6goxNL4
+    track:
+        duration: 1:25
+        title: Melancholic vibes from Hania Rani
+        source: https://www.youtube.com/watch?v=qHDGqemf52w

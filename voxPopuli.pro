@@ -13,3 +13,4 @@ OTHER_FILES += README.md \
                track/philosophy/*.vbml \
                track/cinema/*.vbml \
                track/music/*.vbml \
+               track/slice/*.vbml \
