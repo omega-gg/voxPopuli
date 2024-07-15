@@ -11,6 +11,9 @@ seed: 123
 
 source:
     track:
+        duration: 2:00
+        source: https://omega.gg/voxPopuli/hub
+    track:
         duration: 0:38
         title: Le transhumanisme en question. Alexandre, Onfray et Hadjadj feat Prince
         source: https://www.youtube.com/watch?v=Q72g288cUm8
