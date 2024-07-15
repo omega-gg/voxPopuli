@@ -8,11 +8,11 @@ type: track
 source:
     track:
         duration: 21:00:00
-        source: https://omega.gg/voxPopuli/hub
+        source: https://omega.gg/voxPopuli/slice/slice.vbml
     track:
         duration: 57:40
         # cinema/cinema.vbml
         source: https://vox.omega.gg/w/twtpRNk4MGxgdb4G9gMQXn
     track:
         duration: 2:03:00
-        source: https://omega.gg/voxPopuli/hub
+        source: https://omega.gg/voxPopuli/slice/slice.vbml

@@ -8,11 +8,11 @@ type: track
 source:
     track:
         duration: 21:00:00
-        source: https://omega.gg/voxPopuli/hub
+        source: https://omega.gg/voxPopuli/slice/slice.vbml
     track:
         duration: 1:51:51
         # philosophy/humanism3.vbml
         source: https://vox.omega.gg/w/iSXL3ccRT781pdCMv83YMj
     track:
         duration: 3:00:00
-        source: https://omega.gg/voxPopuli/hub
+        source: https://omega.gg/voxPopuli/slice/slice.vbml
