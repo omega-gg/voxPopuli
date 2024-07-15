@@ -3,6 +3,6 @@
 # Visit https://omega.gg/voxPopuli for more informations.
 #--------------------------------------------------------------------------------------------------
 
-type: track
+type: hub
 
-source: https://omega.gg/voxPopuli/hub
+source: https://omega.gg/voxPopuli/slice/slice.vbml

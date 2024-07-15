@@ -6,13 +6,13 @@
 type: track
 
 source:
-    hub:
+    track:
         duration: 21:00:00
         source: https://omega.gg/voxPopuli/slice/slice.vbml
     track:
         duration: 1:36:15
         # philosophy/humanism2.vbml
         source: https://vox.omega.gg/w/vcD64BZnpfaU9bLhLDtSnj
-    hub:
+    track:
         duration: 3:00:00
         source: https://omega.gg/voxPopuli/slice/slice.vbml
